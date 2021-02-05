@@ -1,7 +1,6 @@
 # 3-fonts
 These are my 4 favorite fonts for vsCode.
 
-
 ### [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript/blob/master/README.md)
 ***
 A font mashup to be used in code editors, displaying a script typeface for the italic font style.
@@ -23,5 +22,6 @@ A programming font with semi-connected cursive italics and symbol ligatures.
 
 ### [Dank Mono](https://gumroad.com/l/dank-mono)
 ***
-![Dank Mono](https://i.ibb.co/fqBpLXz/Dank-Mono-Code.png)
+A typeface designed for coding aesthetes with modern displays in mind. Delightful ligatures and an italic variant and bold style
 ![Dank Mono](https://i.ibb.co/3zL2FRb/Dank-Mono.png)
+![Dank Mono](https://i.ibb.co/fqBpLXz/Dank-Mono-Code.png)
