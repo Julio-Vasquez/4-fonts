@@ -20,3 +20,8 @@ A programming font with semi-connected cursive italics and symbol ligatures.
 ### [Cascadia Code](https://github.com/microsoft/cascadia-code/blob/main/README.md)
 ***
 ![Cascadia Code](https://i.ibb.co/VpYQkm8/cascadia-code-characters.png)
+
+### [Dank Mono](https://gumroad.com/l/dank-mono)
+***
+![Dank Mono](https://i.ibb.co/fqBpLXz/Dank-Mono-Code.png)
+![Dank Mono](https://i.ibb.co/3zL2FRb/Dank-Mono.png)
