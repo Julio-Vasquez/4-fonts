@@ -1,5 +1,5 @@
 # 3-fonts
-These are my 3 favorite fonts for vsCode.
+These are my 4 favorite fonts for vsCode.
 
 
 ### [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript/blob/master/README.md)
